@@ -1,0 +1,25 @@
+# Public static site: keep local credentials, tools and source backups private.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+node_modules/
+dist/
+build/
+.cache/
+coverage/
+test-results/
+playwright-report/
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+archive/
+church-reference/
+*.zip
+*.tar.gz

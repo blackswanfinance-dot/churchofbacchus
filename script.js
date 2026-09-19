@@ -5,4 +5,20 @@ menu.addEventListener('click',()=>{const opening=navigation.hidden;navigation.hi
 navigation.addEventListener('click',event=>{if(event.target.closest('a'))closeMenu();});
 document.addEventListener('keydown',event=>{if(event.key==='Escape'&&!navigation.hidden){closeMenu();menu.focus();}});
 document.querySelector('#year').textContent=new Date().getFullYear();
+const bitcoinAddress = document.querySelector('#bitcoin-address');
+const copyBitcoin = document.querySelector('#copy-bitcoin');
+const bitcoinStatus = document.querySelector('#bitcoin-status');
+copyBitcoin.hidden=false;
+copyBitcoin.addEventListener('click',async()=>{
+  const address=bitcoinAddress.textContent.trim();
+  try{
+    if(!navigator.clipboard?.writeText)throw new Error('Clipboard unavailable');
+    await navigator.clipboard.writeText(address);
+    bitcoinStatus.textContent='Bitcoin address copied.';
+  }catch{
+    const selection=window.getSelection();
+    if(selection){const range=document.createRange();range.selectNodeContents(bitcoinAddress);selection.removeAllRanges();selection.addRange(range);}
+    bitcoinStatus.textContent='Select and copy the address above, or scan the QR code with your wallet.';
+  }
+});
 document.querySelector('#contact-form').addEventListener('submit',event=>{event.preventDefault();const data=new FormData(event.target);const subject=data.get('subject');const body=`Name: ${data.get('name')}\nEmail: ${data.get('email')}\n\n${data.get('message')}`;window.location.href=`mailto:bacchuschurch@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;document.querySelector('#form-status').textContent='Your email app should open. If it does not, email bacchuschurch@gmail.com directly.';});
