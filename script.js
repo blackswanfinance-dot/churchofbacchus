@@ -21,4 +21,3 @@ copyBitcoin.addEventListener('click',async()=>{
     bitcoinStatus.textContent='Select and copy the address above, or scan the QR code with your wallet.';
   }
 });
-document.querySelector('#contact-form').addEventListener('submit',event=>{event.preventDefault();const data=new FormData(event.target);const subject=data.get('subject');const body=`Name: ${data.get('name')}\nEmail: ${data.get('email')}\n\n${data.get('message')}`;window.location.href=`mailto:bacchuschurch@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;document.querySelector('#form-status').textContent='Your email app should open. If it does not, email bacchuschurch@gmail.com directly.';});

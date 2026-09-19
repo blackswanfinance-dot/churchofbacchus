@@ -22,7 +22,7 @@ When the app is ready, add its verified App Store and Google Play listing URLs. 
 - No private keys, wallet credentials, payment processing backend, or Patreon link is included.
 
 ## Remaining details
-- Contact form composes an email in the visitor's mail app; it does not send from a server. A hosted form endpoint is needed for direct submission or a mailing-list subscription. No fake subscription form is included.
+- Contact is email-only at bacchuschurch@gmail.com. The owner requested no form. The artist invitation and quill artwork sit directly below the address in the contact section.
 - The NFT artist invitation is preserved from the original; confirm whether it is still current.
 
 ## Sources
