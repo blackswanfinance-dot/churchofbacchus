@@ -3,5 +3,6 @@
 
 /* Horoscope follows the theatre invitation; the mysteries retain a full-width reading column. */
 .theatre{align-items:start}.theatre .zodiac{max-width:420px;margin-top:28px}.ritual{grid-template-columns:1fr}.ritual>div{max-width:720px;margin-inline:auto}
+.otto-quote,.otto-quote blockquote{margin:0}.otto-quote figcaption{color:#4c4540;font-size:14px;line-height:1.6}
 
 .contact{display:block}.contact>div{max-width:760px;margin-inline:auto}.contact .artists{display:grid;grid-template-columns:180px minmax(0,1fr);gap:28px;margin-top:28px;padding-top:28px}.contact .artists img{width:180px;height:150px;margin:0;object-fit:cover}@media(max-width:480px){.contact .artists{grid-template-columns:1fr;gap:20px}.contact .artists img{width:200px;height:150px}}

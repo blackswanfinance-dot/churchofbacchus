@@ -28,4 +28,6 @@ When the app is ready, add its verified App Store and Google Play listing URLs. 
 ## Sources
 Original archive: chief_of_bots_codex_bridge_sources.zip, extracted in ../church-reference (27 files). Text adapted from the supplied screenshots; preserved sections are home, build plan, YouTube, ritual, mission, donate, contact. The old dated Netflix subscriber count and unverified payment addresses are omitted.
 
+The complete Walter Otto quotation and original attribution in “Is this real?” were restored from `Screenshot_20260907-075223.png` on September 19, 2026, including the original wording/punctuation. The Brian Muraresku scholarly-history paragraph now follows the opening paragraph of “For freedom.” The mission heading is “Earth and wine.” Keep the reference screenshot private, outside this public repository.
+
 Confirmed owner-provided links: https://youtube.com/@sermonofbacchus and https://x.com/sermonofbacchus. Contact: bacchuschurch@gmail.com.
