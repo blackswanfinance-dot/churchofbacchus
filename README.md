@@ -11,7 +11,7 @@ The primary site is https://churchofbacchus.org. HTTPS is active and enforced; `
 Do not upload the source ZIP or phone screenshots into the public repository; only this site's files belong there.
 
 ## RU promotion
-The near-top RU panel announces an upcoming IRL dating app with the owner's wording: “Try our new IRL dating app that rewards courage and creativity.” It clearly says “Coming soon,” with iPhone and Android planned. No app has been launched or embedded here; no private owner-preview link, native installer, store badge, or placeholder download link is published.
+The near-top RU panel announces an upcoming IRL dating app with the owner's wording: “Try our new IRL dating app that rewards courage in real life.” It clearly says “Coming soon,” with iPhone and Android planned. No app has been launched or embedded here; no private owner-preview link, native installer, store badge, or placeholder download link is published.
 When the app is ready, add its verified App Store and Google Play listing URLs. A direct Android APK or a browser version would be a separate release decision requiring a tested public build.
 
 ## Donations
