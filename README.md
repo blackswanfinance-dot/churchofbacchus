@@ -2,6 +2,10 @@
 
 Static reconstruction from the owner's supplied Wix screenshots and original artwork. No packages, build process, Wix runtime, tracking scripts, or paid hosting dependency.
 
+Development starts with [AGENTS.md](AGENTS.md) and [CURRENT-STATE.md](CURRENT-STATE.md).
+They connect this repository to the shared Chief of Bots Airtable work history;
+current tasks and decisions stay there rather than in a second local queue.
+
 ## Project support and contribution stamps — September 28, 2026
 
 The public `#grounds` section presents five designated projects with concept illustrations, sourced planning ranges and exclusions: land ($4.5m working allowance), theatre ($8m), cellar ($250k), trail/labyrinth ($300k) and a travelling pay-what-you-can food truck ($250k startup plus first year). Combined working figure $13.3m is not a complete campus price; major shared site works, carrying/collection costs and future operation remain additional. Land is not owned and no parcel is selected. No verified project fundraising totals are displayed.
