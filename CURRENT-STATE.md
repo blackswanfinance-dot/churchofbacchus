@@ -1,6 +1,6 @@
 # Church website — code checkpoint
 
-Updated 2026-09-28. Read `AGENTS.md` before work. This is a repository snapshot,
+Updated 2026-10-04. Read `AGENTS.md` before work. This is a repository snapshot,
 not a task queue; current goals, decisions, blockers and next actions live in
 Chief of Bots HQ Master Tasks and the shared Work Ledger.
 
@@ -9,8 +9,11 @@ Chief of Bots HQ Master Tasks and the shared Work Ledger.
   in AGENTS.md. Read current decisions before interpreting historical documents.
 - Public repository: `blackswanfinance-dot/churchofbacchus`, branch `main`.
   GitHub Pages serves [churchofbacchus.org](https://churchofbacchus.org/).
-  Product baseline: `4a2c5d38c1550c17c060327dcb9192170fdd28e0`; subsequent
-  workflow documentation does not change the public product functionality.
+  The final main section, `#principles`, contains the owner's three approved
+  paragraphs verbatim, headed **Principles**, in a responsive reading column.
+  Earlier product baseline: `4a2c5d38c1550c17c060327dcb9192170fdd28e0`.
+  Principles validation: two existing grounds tests passed; Chrome phone and
+  desktop layout checked with no overflow or runtime errors, screenshots inspected.
 - `#grounds` describes land, theater, cellar, trail/labyrinth and the travelling
   pay-what-you-can food truck. The $13.3 million working total is a preliminary
   selected-project budget, with additional shared-site and operating costs.
