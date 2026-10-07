@@ -1,9 +1,14 @@
 # Church website — code checkpoint
 
-Updated 2026-10-04. Read `AGENTS.md` before work. This is a repository snapshot,
+Updated 2026-10-07. Read `AGENTS.md` before work. This is a repository snapshot,
 not a task queue; current goals, decisions, blockers and next actions live in
 Chief of Bots HQ Master Tasks and the shared Work Ledger.
 
+- 2026-10-07: `#about` retains the first two god-concept sentences and adds the
+  owner-requested separate mystical-pursuit / Portal paragraph before the tenet.
+  No other website copy or styles changed. Two grounds tests and Chrome checks
+  at 390px and 1440px passed; exact text/order and screenshots verified.
+  Publication evidence belongs in the canonical Airtable task/Work Ledger.
 - Shared coordination: `recsE9xuJNaqgY1FM`; website: `recmvvds7nP2F4xUg`;
   contribution design: `recmnVYRYzQMh0Mpw`. Bootstrap IDs and retrieval rules are
   in AGENTS.md. Read current decisions before interpreting historical documents.
