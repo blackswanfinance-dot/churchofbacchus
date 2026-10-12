@@ -1,9 +1,13 @@
 # Church website — code checkpoint
 
-Updated 2026-10-11. Read `AGENTS.md` before work. This is a repository snapshot,
+Updated 2026-10-12. Read `AGENTS.md` before work. This is a repository snapshot,
 not a task queue; current goals, decisions, blockers and next actions live in
 Chief of Bots HQ Master Tasks and the shared Work Ledger.
 
+- 2026-10-12: Added Google's public URL-prefix ownership verification file
+  `google755c26305f4f3fe1.html` at the site root. Keep this file permanently
+  unless the owner explicitly requests removing ownership. No website content
+  or settings changed; Search Console confirmation is a separate step.
 - 2026-10-11: `#about` uses the owner's revised mystical-pursuit paragraph,
   describing the ancient tradition as a portal to new paths and no holy person
   to follow or compare oneself to. The first quoted “God” is capitalized.
