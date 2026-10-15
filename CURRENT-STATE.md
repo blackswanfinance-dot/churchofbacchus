@@ -1,9 +1,12 @@
 # Church website — code checkpoint
 
-Updated 2026-10-12. Read `AGENTS.md` before work. This is a repository snapshot,
+Updated 2026-10-14. Read `AGENTS.md` before work. This is a repository snapshot,
 not a task queue; current goals, decisions, blockers and next actions live in
 Chief of Bots HQ Master Tasks and the shared Work Ledger.
 
+- 2026-10-14: Added public RU privacy policy at /ru/privacy.html, covering local
+  content, speech recognition, purchases, external links and privacy requests.
+  No private app code, installers or credentials are included.
 - 2026-10-12: Added Google's public URL-prefix ownership verification file
   `google755c26305f4f3fe1.html` at the site root. Keep this file permanently
   unless the owner explicitly requests removing ownership. No website content
