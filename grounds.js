@@ -1,4 +1,4 @@
-import { projects, parseGiftCents, sampleStamp, giftInquiry } from './grounds-data.mjs';
+import { recognitionChoices, parseGiftCents, sampleStamp, giftInquiry } from './grounds-data.mjs';
 
 const projectSelect = document.querySelector('#gift-project');
 const amountInput = document.querySelector('#gift-amount');
@@ -8,10 +8,10 @@ const money = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD
 
 function updateStamp() {
   const cents = parseGiftCents(amountInput.value);
-  const project = projects.find(item => item.id === projectSelect.value);
+  const project = recognitionChoices.find(item => item.id === projectSelect.value);
   const stamp = cents === null ? null : sampleStamp(projectSelect.value, cents);
   document.querySelector('#stamp-word').textContent = project?.stamp ?? 'BACCHUS';
-  document.querySelector('#stamp-project').textContent = project?.name ?? 'Choose a project';
+  document.querySelector('#stamp-project').textContent = project?.name ?? 'General Church support';
   document.querySelector('#stamp-purpose').textContent = project?.purpose ?? '';
   document.querySelector('#stamp-amount').textContent = stamp ? money.format(stamp.grossCents / 100) : '—';
   document.querySelector('#sample-stamp').dataset.project = project?.id ?? '';

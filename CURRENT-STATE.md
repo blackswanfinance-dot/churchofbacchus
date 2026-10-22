@@ -1,5 +1,29 @@
 # Church website — code checkpoint
 
+## Donation disclosures — 2026-10-22
+
+Owner Decision `recwjGdOrIqrpBJKL` authorizes publication of the support draft below
+plus Florida nonprofit religious identity and visible donor terms: Church-purpose
+use, checkout purpose precedence, construction uncertainty, prospective voluntary
+refund limits with law/provider remedies preserved, and no promised deduction,
+ownership, return, token or privileges. GoFundMe excluded. No assertion of state
+or IRS exemption. Three tests pass; 390px/1280px layouts inspected without overflow.
+Publication verification is recorded separately in Airtable after pushing.
+
+## Local support-readiness draft — 2026-10-22
+
+Airtable Result `rec1QXF9hzVCx66P4`; research `recBB5aMsamPJCGl1`.
+Unpublished working-tree changes identify the Church as RU publisher, add an early
+support link, default the unissued token sample to general Church support and make
+project stamps optional expressions of interest, not restricted allocations.
+No token sale/issuance or current/promised future privileges. Existing donations
+do not include tokens. Payment URLs unchanged; PayPal checkout specifies the Theatre.
+This supersedes the older project-designation description below for the local draft.
+Three Node tests, syntax/diff checks and mobile/desktop browser checks passed,
+including exact amounts and invalid-input handling. Screenshot is ignored under
+test-results/support-preview-20261022.jpg. No publication, financial transaction,
+new payment account or RU build change. Baseline HEAD ba59bb9.
+
 Updated 2026-10-14. Read `AGENTS.md` before work. This is a repository snapshot,
 not a task queue; current goals, decisions, blockers and next actions live in
 Chief of Bots HQ Master Tasks and the shared Work Ledger.

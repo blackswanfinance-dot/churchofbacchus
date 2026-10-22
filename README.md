@@ -1,5 +1,13 @@
 # Church of Bacchus
 
+Local draft, October 22: clearer RU publisher/support links and general-support
+token preview with optional project-interest stamps. No tokens are sold or issued;
+existing donations include no token. PayPal retains its Theatre purpose. This
+supersedes the September designation wording below for the working tree only.
+October 22 owner authorized publication with visible donation disclosures and
+Florida nonprofit religious identity. GoFundMe excluded. Validation and separate
+publication evidence are referenced in CURRENT-STATE.md and Airtable.
+
 Static reconstruction from the owner's supplied Wix screenshots and original artwork. No packages, build process, Wix runtime, tracking scripts, or paid hosting dependency.
 
 Development starts with [AGENTS.md](AGENTS.md) and [CURRENT-STATE.md](CURRENT-STATE.md).
