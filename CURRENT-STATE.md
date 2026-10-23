@@ -45,10 +45,13 @@ Chief of Bots HQ Master Tasks and the shared Work Ledger.
   in AGENTS.md. Read current decisions before interpreting historical documents.
 - Public repository: `blackswanfinance-dot/churchofbacchus`, branch `main`.
   GitHub Pages serves [churchofbacchus.org](https://churchofbacchus.org/).
-  The final main section, `#principles`, contains the owner's three approved
+  The final main section, `#principles`, contains the owner's two approved
   paragraphs verbatim, headed **Principles**, in a responsive reading column.
+  Approved replacement published in commit
+  `a150a8b2a65dc5c76a01128668c4bd96aeefcef4`; live text and desktop layout
+  verified. Canonical Decision: `recan7jhnpZinTZSO`; Result: `rec35Oa4gY3DixByx`.
   Earlier product baseline: `4a2c5d38c1550c17c060327dcb9192170fdd28e0`.
-  Principles validation: two existing grounds tests passed; Chrome phone and
+  Earlier Principles validation: two existing grounds tests passed; Chrome phone and
   desktop layout checked with no overflow or runtime errors, screenshots inspected.
 - `#grounds` describes land, theater, cellar, trail/labyrinth and the travelling
   pay-what-you-can food truck. The $13.3 million working total is a preliminary
