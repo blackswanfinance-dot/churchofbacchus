@@ -1,5 +1,11 @@
 # Church website — code checkpoint
 
+## Opening sentence — 2026-10-26
+
+Owner requested removing only “and equality” from the introductory personal-freedom
+sentence in #about. Exact replacement verified; remaining homepage bytes preserved.
+The approved Principles statement and all other content remain unchanged.
+
 ## Donation disclosures — 2026-10-22
 
 Owner Decision `recwjGdOrIqrpBJKL` authorizes publication of the support draft below
